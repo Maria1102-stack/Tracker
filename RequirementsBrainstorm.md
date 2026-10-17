@@ -1,5 +1,6 @@
-## Overview
+# Overview
 - **Status:** In Review / Brainstorm
+<br>
 
 ## Functional Requirements
 - [ ] **F01:** The system **must** allow a user to create a new trigger, capturing the creation timestamp and a description of the event.
@@ -13,13 +14,15 @@
 - [ ] **F09:** The system **should** generate different statistics based on the registered emotions. 
 - [ ] **F10:** The system **should** provide a login feature for users with a username and credentials.
 - [ ] **F11:** The system **could** integrate a "feelings wheel" UI component for selecting emotions.
+<br>
 
-## Non-Functional Requirements *(Must all be measureable )*
+## Non-Functional Requirements *(Must all be measureable - redefine)*
 - [ ] **NF01:** **Privacy:** The system **must** minimize data collection, only storing information crucial for the application's functionality.
 - [ ] **NF02:** **Data Control:** The system **must** allow users to completely delete their data upon request.
 - [ ] **NF03:** **Security:** Passwords **must** be securely hashed prior to database storage.
 - [ ] **NF04:** **Usability:** The user interface **should** be intuitive and easy to use.
 - [ ] **NF05:** **Maintainability:** The codebase **should** follow a clean architecture to ensure it is easy to upscale and maintain.
+<br>
 
 ## Design considerations
 
