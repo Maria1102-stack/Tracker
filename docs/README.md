@@ -2,6 +2,7 @@
 
 *This is a hobby project.*
 <br>
+* **[Requirement Specification](./RequirementsBrainstorm.md)**
 <br>
 
 * **A quick tip:** To view and edit the **.drawio** files, install the **Draw.io Integration** extension. Make sure to open the files with the extension, otherwise they will just open as XML code. 
@@ -25,5 +26,3 @@ The app does not speculate about why a user experiences certain emotions or trig
 
 ### Privacy by design
 Privacy and data protection are considered and integrated into the application's architecture and design from the beginning, rather than being added as an afterthought.
-<br>
-* **[Requirement Specification](./RequirementsBrainstorm.md)**
