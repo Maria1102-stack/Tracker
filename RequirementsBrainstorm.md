@@ -1,5 +1,5 @@
 ## Overview
-* **Status:** In Review / Brainstorm
+- **Status:** In Review / Brainstorm
 
 ## Functional Requirements
 - [ ] **F01:** The system **must** allow a user to create a new trigger, capturing the creation timestamp and a description of the event.
@@ -26,11 +26,11 @@
 
 ## Design considerations
 
-### Intensity Rating (FR-05)
-- Should the user rate each emotion, or just give the whole event one overall score? To keep the MVP simple and avoid too many inputs, I will probably stick to **one overall 1-10 score per trigger event**.
+### Intensity Rating (F05)
+Should the user rate each emotion, or just give the whole event one overall score? To keep the MVP simple and avoid too many inputs, I will probably stick to **one overall 1-10 score per trigger event**.
 
-### Stats & Charts (FR-09)
-- What charts actually bring value? For example: "Most common emotions this month" or "Which core themes cause the most triggers". I need to figure out exactly which stats to build first when I design the backend.
+### Stats & Charts (F09)
+What charts actually bring value? For example: "Most common emotions this month" or "Which core themes cause the most triggers". I need to figure out exactly which stats to build first when I design the backend.
 
 ### Login & Database Setup
-- Since triggers connect directly to both emotions and core themes, a relational database like **PostgreSQL** or **SQLite** makes the most sense. It will make handling the relationships between tables a lot easier than using NoSQL.
+Since triggers connect directly to both emotions and core themes, a relational database like **PostgreSQL** or **SQLite** makes the most sense. It will make handling the relationships between tables a lot easier than using NoSQL.
