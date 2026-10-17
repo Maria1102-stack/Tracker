@@ -17,5 +17,5 @@ The app may present patterns and correlations observed in a user's own data, but
 The app does not speculate about why a user experiences certain emotions or triggers.
 
 Privacy by design
-Privacy and data protection are considered and integrated into the application's architecture and design from the beginning, rather than being added as an afterthought.
+Privacy and data protection are considered and integrated into the application's architecture and design Fom the beginning, rather than being added as an afterthought.
 
